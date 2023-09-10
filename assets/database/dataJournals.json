@@ -158,5 +158,13 @@
         "scopus": false,
         "sinta": 4,
         "url": "https://jurnal.ar-raniry.ac.id/index.php/Psikoislam"
+    },
+    {
+        "title": "PIONIR",
+        "image": "assets/journals/pionir.png",
+        "description": "ini adalah islam didaktika",
+        "scopus": false,
+        "sinta": 4,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/Pionir"
     }
 ]
