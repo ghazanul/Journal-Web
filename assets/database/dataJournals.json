@@ -1,0 +1,162 @@
+[
+    {
+        "title": "SAMARAH",
+        "image": "assets/journals/samarah.png",
+        "description": "ini adalah samarah",
+        "scopus": true,
+        "sinta": 1,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/samarah"
+    },
+    {
+        "title": "ISLAM FUTURA",
+        "image": "assets/journals/islam futura.png",
+        "description": "ini adalah islam futura",
+        "scopus": true,
+        "sinta": 1,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/islamfutura"
+    },
+    {
+        "title": "PETITA",
+        "image": "assets/journals/petita.png",
+        "description": "ini adalah Petita",
+        "scopus": true,
+        "sinta": 1,
+        "url": "https://petita.ar-raniry.ac.id/index.php/petita"
+    },
+    {
+        "title": "SHARE",
+        "image": "assets/journals/share.png",
+        "description": "ini adalah share",
+        "scopus": false,
+        "sinta": 2,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/Share/index"
+    },
+    {
+        "title": "ELKAWNIE",
+        "image": "assets/journals/elkawnie.png",
+        "description": "ini adalah elkawnie",
+        "scopus": false,
+        "sinta": 2,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/elkawnie"
+    },
+    {
+        "title": "ENGLISIA",
+        "image": "assets/journals/englisia.png",
+        "description": "ini adalah islam englisia",
+        "scopus": false,
+        "sinta": 2,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/englisia"
+    },
+    {
+        "title": "DAYAH",
+        "image": "assets/journals/dayah.png",
+        "description": "ini adalah islam didaktika",
+        "scopus": false,
+        "sinta": 3,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/JIE"
+    },
+    {
+        "title": "DIDAKTIKA",
+        "image": "assets/journals/didaktika.png",
+        "description": "ini adalah islam didaktika",
+        "scopus": false,
+        "sinta": 3,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/didaktika/index"
+    },
+    {
+        "title": "Al BAYAN",
+        "image": "assets/journals/Al bayan.png",
+        "description": "ini adalah Al bayan",
+        "scopus": false,
+        "sinta": 3,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/bayan"
+    },
+    {
+        "title": "MEDIA SYARIAH",
+        "image": "assets/journals/mediaSyariah.png",
+        "description": "ini adalah mediaSyariah",
+        "scopus": false,
+        "sinta": 3,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/medsyar"
+    },
+    {
+        "title": "AR-RANIRY",
+        "image": "assets/journals/Arraniry.png",
+        "description": "ini adalah share",
+        "scopus": false,
+        "sinta": 3,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/jar"
+    },
+    {
+        "title": "MUDARRISUNA",
+        "image": "assets/journals/mudarrisuna.png",
+        "description": "ini adalah elkawnie",
+        "scopus": false,
+        "sinta": 3,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/mudarrisuna"
+    },
+    {
+        "title": "BIOTIK",
+        "image": "assets/journals/biotik.png",
+        "description": "ini adalah Al bayan",
+        "scopus": false,
+        "sinta": 3,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/biotik"
+    },
+    {
+        "title": "GENDER EQUALITY",
+        "image": "assets/journals/genderEquality.png",
+        "description": "ini adalah islam didaktika",
+        "scopus": false,
+        "sinta": 3,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/didaktika/index"
+    },
+    {
+        "title": "AL IJTIMAIYYAH",
+        "image": "assets/journals/Alijtimaiyyah.png",
+        "description": "ini adalah islam didaktika",
+        "scopus": false,
+        "sinta": 3,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/PMI"
+    },
+    {
+        "title": "TAFSE",
+        "image": "assets/journals/Tafse.png",
+        "description": "ini adalah share",
+        "scopus": false,
+        "sinta": 3,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/tafse"
+    },
+    {
+        "title": "LANTANIDA",
+        "image": "assets/journals/Lantanida.png",
+        "description": "ini adalah elkawnie",
+        "scopus": false,
+        "sinta": 4,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/lantanida/index"
+    },
+    {
+        "title": "JUSTISIA",
+        "image": "assets/journals/jurnal justisia.png",
+        "description": "ini adalah Al bayan",
+        "scopus": false,
+        "sinta": 4,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/Justisia"
+    },
+    {
+        "title": "CYBERSPACE",
+        "image": "assets/journals/cyberspace.png",
+        "description": "ini adalah islam didaktika",
+        "scopus": false,
+        "sinta": 4,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/cyberspace/index"
+    },
+    {
+        "title": "PSIKOISLAMEDIA",
+        "image": "assets/journals/Psikoislamedia.png",
+        "description": "ini adalah islam didaktika",
+        "scopus": false,
+        "sinta": 4,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/Psikoislam"
+    }
+]
