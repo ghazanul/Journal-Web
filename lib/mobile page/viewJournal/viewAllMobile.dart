@@ -15,7 +15,7 @@ class viewAllMobile extends StatelessWidget {
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceAround,
             children: [
-              for (int i = j; i < j+2; i++)
+              for (int i = j; i < j + 2 && i < journals.length; i++)
                 journalItemMobile(
                     description: journals[i]['description'],
                     title: journals[i]['title'],
