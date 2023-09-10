@@ -166,5 +166,13 @@
         "scopus": false,
         "sinta": 4,
         "url": "https://jurnal.ar-raniry.ac.id/index.php/Pionir"
+    },
+    {
+        "title": "CIRCUIT",
+        "image": "assets/journals/circuit.png",
+        "description": "ini adalah islam didaktika",
+        "scopus": false,
+        "sinta": 4,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/circuit"
     }
 ]
