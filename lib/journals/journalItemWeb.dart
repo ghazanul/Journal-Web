@@ -58,109 +58,118 @@ class journalItemWeb extends StatelessWidget {
                                       ),
                                     ],
                                   ),
-                                  Container(
-                                    width: MediaQuery.of(context).size.width *
-                                        0.23,
-                                    child: Padding(
-                                      padding: const EdgeInsets.only(
-                                        left: 15.0,
-                                      ),
-                                      child: Column(
-                                        crossAxisAlignment:
-                                            CrossAxisAlignment.center,
-                                        children: [
-                                          Text(
-                                            title,
-                                            style: GoogleFonts.abel(
-                                                color: Colors.white,
-                                                fontSize: MediaQuery.of(context)
-                                                        .size
-                                                        .width *
-                                                    0.02,
-                                                fontWeight: FontWeight.bold),
+                                  Stack(
+                                    children: [
+                                      Container(
+                                        width: MediaQuery.of(context).size.width *
+                                            0.23,
+                                        child: Padding(
+                                          padding: const EdgeInsets.only(
+                                            left: 15.0,
                                           ),
-                                          SizedBox(
-                                            height: MediaQuery.of(context)
-                                                    .size
-                                                    .height *
-                                                0.02,
-                                          ),
-                                          Row(
+                                          child: Column(
+                                            crossAxisAlignment:
+                                                CrossAxisAlignment.center,
                                             children: [
-                                              Flexible(
-                                                child: Text(
-                                                  description,
-                                                  style: GoogleFonts.abel(
-                                                      color: Colors.white,
-                                                      fontSize:
-                                                          MediaQuery.of(context)
-                                                                  .size
-                                                                  .width *
-                                                              0.012,
-                                                      fontWeight:
-                                                          FontWeight.bold),
-                                                  textAlign: TextAlign.justify,
-                                                ),
+                                              Text(
+                                                title,
+                                                style: GoogleFonts.abel(
+                                                    color: Colors.white,
+                                                    fontSize: MediaQuery.of(context)
+                                                            .size
+                                                            .width *
+                                                        0.02,
+                                                    fontWeight: FontWeight.bold),
                                               ),
-                                            ],
-                                          ),
-                                          SizedBox(
-                                            height: MediaQuery.of(context).size.height * 0.29,
-                                          ),
-                                          InkWell(
-                                            onTap: () async {
-                                              await launch(url,
-                                                  forceWebView: true);
-                                            },
-                                            child: Container(
-                                              width: MediaQuery.of(context)
-                                                      .size
-                                                      .width *
-                                                  0.1,
-                                              height: MediaQuery.of(context)
-                                                      .size
-                                                      .height *
-                                                  0.045,
-                                              decoration: BoxDecoration(
-                                                  borderRadius:
-                                                      BorderRadius.circular(25),
-                                                  color: Color.fromARGB(47, 168, 168, 168),
-                                                  boxShadow: [
-                                                    BoxShadow(
-                                                      color: Colors.black26,
-                                                      blurRadius: 2,
-                                                      offset: Offset(0, 3),
-                                                    )
-                                                  ]),
-                                              child: Center(
-                                                child: Row(
-                                                  mainAxisAlignment: MainAxisAlignment.center,
-                                                  children: [
-                                                    Image.asset(
-                                                      "assets/browser.png",
-                                                      width: 50,
-                                                    ),
-                                                    SizedBox(width: 5,),
-                                                    Text(
-                                                      "View Journal",
+                                              SizedBox(
+                                                height: MediaQuery.of(context)
+                                                        .size
+                                                        .height *
+                                                    0.02,
+                                              ),
+                                              Row(
+                                                children: [
+                                                  Flexible(
+                                                    child: Text(
+                                                      description,
                                                       style: GoogleFonts.abel(
                                                           color: Colors.white,
-                                                          fontSize: MediaQuery.of(
-                                                                      context)
-                                                                  .size
-                                                                  .width *
-                                                              0.009,
+                                                          fontSize:
+                                                              MediaQuery.of(context)
+                                                                      .size
+                                                                      .width *
+                                                                  0.01,
                                                           fontWeight:
                                                               FontWeight.bold),
+                                                      textAlign: TextAlign.justify,
                                                     ),
-                                                  ],
-                                                ),
+                                                  ),
+                                                ],
                                               ),
-                                            ),
+
+                                            ],
                                           ),
-                                        ],
+                                        ),
                                       ),
-                                    ),
+
+                                      Padding(
+                                        padding: const EdgeInsets.symmetric(horizontal : 160),
+                                        child: Align(
+                                          alignment: Alignment.bottomCenter,
+                                          child: InkWell(
+                                                    onTap: () async {
+                                                      await launch(url,
+                                                          forceWebView: true);
+                                                    },
+                                                    child: Container(
+                                                      width: MediaQuery.of(context)
+                                                              .size
+                                                              .width *
+                                                          0.1,
+                                                      height: MediaQuery.of(context)
+                                                              .size
+                                                              .height *
+                                                          0.045,
+                                                      decoration: BoxDecoration(
+                                                          borderRadius:
+                                                              BorderRadius.circular(25),
+                                                          color: Color.fromARGB(47, 168, 168, 168),
+                                                          boxShadow: [
+                                                            BoxShadow(
+                                                              color: Colors.black26,
+                                                              blurRadius: 2,
+                                                              offset: Offset(0, 3),
+                                                            )
+                                                          ]),
+                                                      child: Center(
+                                                        child: Row(
+                                                          mainAxisAlignment: MainAxisAlignment.center,
+                                                          children: [
+                                                            Image.asset(
+                                                              "assets/browser.png",
+                                                              width: 50,
+                                                            ),
+                                                            SizedBox(width: 5,),
+                                                            Text(
+                                                              "View Journal",
+                                                              style: GoogleFonts.abel(
+                                                                  color: Colors.white,
+                                                                  fontSize: MediaQuery.of(
+                                                                              context)
+                                                                          .size
+                                                                          .width *
+                                                                      0.009,
+                                                                  fontWeight:
+                                                                      FontWeight.bold),
+                                                            ),
+                                                          ],
+                                                        ),
+                                                      ),
+                                                    ),
+                                                  ),
+                                        ),
+                                      ),
+                                    ],
                                   )
                                 ],
                               ),
