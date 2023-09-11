@@ -646,5 +646,46 @@
         "scopus": false,
         "sinta": 0,
         "url": "https://journal.ar-raniry.ac.id/index.php/edj"
+    },
+    {
+        "title": "EL-AILAH",
+        "image": "assets/journals/elailah.png",
+        "description": "",
+        "scopus": false,
+        "sinta": 0,
+        "url": "https://jim.ar-raniry.ac.id/index.php/AJIMHK"
+    },
+    {
+        "title": "JIMEBIS",
+        "image": "assets/journals/jimebis.png",
+        "description": "JIMEBIS: Jurnal Ilmiah Mahasiswa Ekonomi dan Bisnis Islam is a Scientific Journal of Islamic Economics and Business dedicated for students’ article co-authored with lecturers. The articles published in this journal is based on scientific research done during the study and discuss Islamic economics and business issues including Islamic banking and finance, fintech, and Islamic philanthropy. JIMEBIS will be published periodically for 6 (six) months on May and September each year.",
+        "scopus": false,
+        "sinta": 0,
+        "url": "https://jim.ar-raniry.ac.id/index.php/JIMEBIS"
+    },
+    {
+        "title": "JSAI",
+        "image": "assets/journals/jsai.png",
+        "description": "Jurnal Sosiologi Agama Indonesia (JSAI) Ar-raniry adalah wadah publikasi hasil penelitian khususnya bagi para mahasiswa Sosiologi Agama. Jurnal Sosiologi Agama Indonesia terbit setiap dua kali dalam setahun, pada bulan Juni dan Desember.  JSAI memuat hasil Penelitian ilmiah para Mahasiswa tentang berbagai fenomena sosial keagamaan yang terjadi di kawasan Asia Tenggara.",
+        "scopus": false,
+        "sinta": 0,
+        "url": "https://jim.ar-raniry.ac.id/index.php/jsai"
+    },
+    {
+        "title": "MAHASISWA",
+        "image": "assets/journals/jurnal ilmiah Mahasiswa.png",
+        "description": "Jurnal ini berfokus pada publikasi hasil penelitian dari praktik (model) pendidikan dan pengajaran di Indonesia. Jurnal ini menerbitkan artikel yang menarik bagi praktisi pendidikan (Mahasiswa, Dosen, guru,) pembuat kebijakan pendidikan, dan peneliti. Artikel yang dikirimkan harus orisinal dan menarik secara edukatif bagi audiens di lapangan.",
+        "scopus": false,
+        "sinta": 0,
+        "url": "https://jim.ar-raniry.ac.id/index.php/ej"
+    },
+    {
+        "title": "TADABBUR",
+        "image": "assets/journals/tadabbur.png",
+        "description": "Tadabbur: Jurnal Peradaban Islam (E-ISSN:  2686-1690 & P-ISSN: 2656-9930) is a peer reviewed and open access journal. This journal is published by master's degree Department of Islamic Education  Postgraduate Program of Universitas Islam Negeri (State Islamic University) Ar-Raniry, Banda Aceh in cooperation with Center for Research and Community Service (LP2M).  It focuses to publish research articles on Islamic civilization including Islamic Education, Islamic Law, Islamic Economics, Islamic Mysticism.",
+        "scopus": false,
+        "sinta": 0,
+        "url": "https://jim.ar-raniry.ac.id/index.php/tadabbur"
     }
+
 ]
