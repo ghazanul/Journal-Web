@@ -2,7 +2,7 @@
     {
         "title": "SAMARAH",
         "image": "assets/journals/samarah.png",
-        "description": "ini adalah samarah",
+        "description": "Samarah: Jurnal Hukum Keluarga dan Hukum Islam is a double-blind peer-reviewed journal published by Islamic Family Law Department, Sharia and Law Faculty, Universitas Islam Negeri Ar-Raniry, Banda Aceh, Indonesia. The journal publishes research articles, conceptual articles, and book reviews of Islamic family law and Islamic law (See Focus and Scope). ",
         "scopus": true,
         "sinta": 1,
         "url": "https://jurnal.ar-raniry.ac.id/index.php/samarah"
@@ -10,7 +10,7 @@
     {
         "title": "ISLAM FUTURA",
         "image": "assets/journals/islam futura.png",
-        "description": "ini adalah islam futura",
+        "description": "Jurnal Ilmiah Islam Futura (JIIF) is an international peer reviewed journal published by the Center for Research and Publication of Universitas Islam Negeri (State Islamic University) Ar-Raniry Banda Aceh, Indonesia, since 2001. Jurnal Ilmiah Islam Futura has the primary academic mission to develop various Islamic studies based on contemporary Islamic perspective, particularly in Aceh and Indian Ocean. The word 'Futura' means the future of Islam. The Islamic perspective is 'how-view' oriented to Islam's values, which is the methodological foundation for the entire discipline of Islamic sciences.",
         "scopus": true,
         "sinta": 1,
         "url": "https://jurnal.ar-raniry.ac.id/index.php/islamfutura"
@@ -18,7 +18,7 @@
     {
         "title": "PETITA",
         "image": "assets/journals/petita.png",
-        "description": "ini adalah Petita",
+        "description": "PETITA: Jurnal Kajian Ilmu Hukum dan Syariah (PJKIHdS) is an international and double-blind peer reviewed journal which welcomes high quality, theoretically informed articles on a wide range of areas related to law and sharia research analysis. PJKIHdS has been published by Lembaga Kajian Konstitusi Indonesia (LKKI), Fakultas Syariah dan Hukum, Universitas Islam Negeri Ar-Raniry, Banda Aceh, Indonesia. ",
         "scopus": true,
         "sinta": 1,
         "url": "https://petita.ar-raniry.ac.id/index.php/petita"
@@ -26,7 +26,7 @@
     {
         "title": "SHARE",
         "image": "assets/journals/share.png",
-        "description": "ini adalah share",
+        "description": "Share: Jurnal Ekonomi dan Keuangan Islam [SHARE] is a peer-reviewed, double-blind journal published by the Faculty of Islamic Economics and Business at Universitas Islam Negeri Ar-Raniry in Banda Aceh, Indonesia. SHARE publishes research and concept papers pertaining to the field of Islamic economics and finance in open-access format, allowing users to freely access and download the articles under the CC BY SA license.",
         "scopus": false,
         "sinta": 2,
         "url": "https://jurnal.ar-raniry.ac.id/index.php/Share/index"
@@ -34,7 +34,7 @@
     {
         "title": "ELKAWNIE",
         "image": "assets/journals/elkawnie.png",
-        "description": "ini adalah elkawnie",
+        "description": "Elkawnie is a journal of Integration Science and Technology with Islam. It's covering research and technology in the field of study of Architecture, Biology, Chemistry, Environmental Engineering, ICT, Physical Engineering, and other science and technology fields. In particular, Elkawnie's journal discusses research and technology development in contributing to development as part of Muslim scientists in the academic sphere.",
         "scopus": false,
         "sinta": 2,
         "url": "https://jurnal.ar-raniry.ac.id/index.php/elkawnie"
@@ -42,7 +42,7 @@
     {
         "title": "ENGLISIA",
         "image": "assets/journals/englisia.png",
-        "description": "ini adalah islam englisia",
+        "description": " The journal publishes articles of interest to language teachers, practitioners, and language researchers. Manuscripts must be original and educationally interesting to the audience in the field. The goal is to promote concepts and ideas developed in this area of study by publishing relevant peer-reviewed scientific information and discussion. This will help language practitioners to advance their knowledge for greater benefit and output in their professional contexts.",
         "scopus": false,
         "sinta": 2,
         "url": "https://jurnal.ar-raniry.ac.id/index.php/englisia"
@@ -50,7 +50,7 @@
     {
         "title": "DAYAH",
         "image": "assets/journals/dayah.png",
-        "description": "ini adalah islam didaktika",
+        "description": "DAYAH: Journal of Islamic Education is published by the Center for Research and Community Service (LP2M) in cooperation with the Department of Islamic Education (master's degree) Graduate Program of State Islamic University (UIN) Ar-Raniry Banda Aceh. It focuses to publish research articles on Islamic education.a",
         "scopus": false,
         "sinta": 3,
         "url": "https://jurnal.ar-raniry.ac.id/index.php/JIE"
@@ -58,7 +58,7 @@
     {
         "title": "DIDAKTIKA",
         "image": "assets/journals/didaktika.png",
-        "description": "ini adalah islam didaktika",
+        "description": "JURNAL ILMIAH DIDAKTIKA: Media Ilmiah Pendidikan dan Pengajaran is a nationally and internationally peer-reviewed educational journal open for teachers, educators, and researchers from the field of education. This journal focuses on the publication of research results from the practice (model) of education and teaching in Indonesia ",
         "scopus": false,
         "sinta": 3,
         "url": "https://jurnal.ar-raniry.ac.id/index.php/didaktika/index"
@@ -66,7 +66,7 @@
     {
         "title": "Al BAYAN",
         "image": "assets/journals/Al bayan.png",
-        "description": "ini adalah Al bayan",
+        "description": "Jurnal Al-Bayan: Media Kajian dan Pengembangan Ilmu Dakwah is a journal published by the Da'wah and Communication Faculty, UIN Ar-Raniry in cooperation with Asosiasi Profesi Dakwah Indonesia (APDI). This journal has been accredited by SINTA 3 by the Ministry of Research, Technology and Higher Education for Period IV of 2019. This journal raises themes around Da'wah and Social Sciences. ",
         "scopus": false,
         "sinta": 3,
         "url": "https://jurnal.ar-raniry.ac.id/index.php/bayan"
@@ -74,7 +74,7 @@
     {
         "title": "MEDIA SYARIAH",
         "image": "assets/journals/mediaSyariah.png",
-        "description": "ini adalah mediaSyariah",
+        "description": "The journal is a peer-reviewed journal that aims to publish new work of the highest caliber across the full range of law with various aspects that consist of articles of researches and academic thoughts. It is a medium of academic publication and communication for experts and researchers who are concerned with law and Islamic law in the various perspective",
         "scopus": false,
         "sinta": 3,
         "url": "https://jurnal.ar-raniry.ac.id/index.php/medsyar"
@@ -82,7 +82,7 @@
     {
         "title": "AR-RANIRY",
         "image": "assets/journals/Arraniry.png",
-        "description": "ini adalah share",
+        "description": "The presence of this journal is intended to respond to the debate in academic issues related to Islamic studies, such as the field of Islamic Education, Al-Quran and Hadith, Islamic Thoughts, Fiqh and Islamic Law, History and Islamic Civilization, Modernity, Language,  Islamic literature, and Islamic Communication.",
         "scopus": false,
         "sinta": 3,
         "url": "https://jurnal.ar-raniry.ac.id/index.php/jar"
@@ -90,7 +90,7 @@
     {
         "title": "MUDARRISUNA",
         "image": "assets/journals/mudarrisuna.png",
-        "description": "ini adalah elkawnie",
+        "description": "Journal MUDARRISUNA is an open-access journal published by Universitas Islam Negeri Ar-Raniry Banda Aceh, Indonesia. The journal publishes various research and literary reviews in the field of Islamic education in particular and education science in general. Expected to be suggesting new concepts and best practices for teachers, lecturers, researchers, and practitioners in various places",
         "scopus": false,
         "sinta": 3,
         "url": "https://jurnal.ar-raniry.ac.id/index.php/mudarrisuna"
@@ -98,7 +98,7 @@
     {
         "title": "BIOTIK",
         "image": "assets/journals/biotik.png",
-        "description": "ini adalah Al bayan",
+        "description": "BIOTIK: Jurnal Ilmiah Biologi Teknologi dan Kependidikan publishes scientific articles in the field of biology education and technology. Furthermore, this journal bridges the gap between research and practice, providing information, ideas and insights, in addition to critical examinations of biology research and teaching.",
         "scopus": false,
         "sinta": 3,
         "url": "https://jurnal.ar-raniry.ac.id/index.php/biotik"
@@ -106,7 +106,7 @@
     {
         "title": "GENDER EQUALITY",
         "image": "assets/journals/genderEquality.png",
-        "description": "ini adalah islam didaktika",
+        "description": "This journal invites scholars, researchers, and students to contribute the result of their studies and researches in the areas related to gender, families, and children which covers textual and fieldwork investigation with various perspectives such as education, law, social, political, religion, culture, economics, psychology, science, and technology.",
         "scopus": false,
         "sinta": 3,
         "url": "https://jurnal.ar-raniry.ac.id/index.php/didaktika/index"
@@ -114,7 +114,7 @@
     {
         "title": "AL IJTIMAIYYAH",
         "image": "assets/journals/Alijtimaiyyah.png",
-        "description": "ini adalah islam didaktika",
+        "description": "JURNAL AL-IJTIMAIYYAH is an open access journal that contributing to publishing various research results and literature review in the field of Islamic community development. This journal published by the Center for Research and Community Service UIN Ar-Raniry Banda Aceh, Indonesia. The journal welcomes the new idea and concepts on the community development field to be published academically. This journal accepts in the fields of Islamic society, Islamic microfinance, disaster, poverty reduction, sosial welfare, entrepreneurship. gender, and development.",
         "scopus": false,
         "sinta": 3,
         "url": "https://jurnal.ar-raniry.ac.id/index.php/PMI"
@@ -122,7 +122,7 @@
     {
         "title": "TAFSE",
         "image": "assets/journals/Tafse.png",
-        "description": "ini adalah share",
+        "description": "TAFSE: Journal of Qur’anic Studies is open access, peer-reviewed journal that is committed to the publications of any original research article in the fields of Al-Qur'an and Tafsir sciences, including the understanding of the text, literature studies, living Qur’an, and interdisciplinary studies in Alquran, and Tafsir.",
         "scopus": false,
         "sinta": 3,
         "url": "https://jurnal.ar-raniry.ac.id/index.php/tafse"
@@ -130,7 +130,7 @@
     {
         "title": "LANTANIDA",
         "image": "assets/journals/Lantanida.png",
-        "description": "ini adalah elkawnie",
+        "description": "Lantanida Journal is an open access journal providing authoritative source of scientific information for researchers, lecturer, teacher and student in academia, research institutions, government agencies, and industries. We publish original research papers, review articles and case studies focused on chemistry, chemistry education, and education development as well as related topics",
         "scopus": false,
         "sinta": 4,
         "url": "https://jurnal.ar-raniry.ac.id/index.php/lantanida/index"
@@ -138,7 +138,7 @@
     {
         "title": "JUSTISIA",
         "image": "assets/journals/jurnal justisia.png",
-        "description": "ini adalah Al bayan",
+        "description": "Jurnal Justisia: Jurnal Ilmu Hukum, Perundang-undangan dan Pranata Sosial was based on the enthusiasm of lecturers of Law Department, UIN Ar-raniry to express their thought trhrough writing. However, at that time, the Law Department did not have a media to accommodate their enthusiasm. Hence the publication of this journal is very important. Interestingly, the presence of the journal is warmly welcome by Sharia and Law faculty's lecturers.",
         "scopus": false,
         "sinta": 4,
         "url": "https://jurnal.ar-raniry.ac.id/index.php/Justisia"
@@ -146,7 +146,7 @@
     {
         "title": "CYBERSPACE",
         "image": "assets/journals/cyberspace.png",
-        "description": "ini adalah islam didaktika",
+        "description": "Cyberspace: Jurnal Pendidikan Teknologi Informasi is an open access, peer-reviewed journal that will consider any original scientific article that expands the field of information technology education and various other related applied computer sciences themes. The journal publishes articles of interest to Information technology teachers, researchers and practitioners. Manuscripts must be original and educationally interesting to the audience in the field.",
         "scopus": false,
         "sinta": 4,
         "url": "https://jurnal.ar-raniry.ac.id/index.php/cyberspace/index"
@@ -154,7 +154,7 @@
     {
         "title": "PSIKOISLAMEDIA",
         "image": "assets/journals/Psikoislamedia.png",
-        "description": "ini adalah islam didaktika",
+        "description": "PSIKOISLAMEDIA Jurnal Psikologi (PJP) is a national, double-blind peer-reviewed, and open-access journal published by the Psychology Faculty of Ar Raniry Islamic State University in Indonesia. PJP was first published in April 2016 with the aim of contributing to the development of psychology knowledge by publishing high-quality psychology articles",
         "scopus": false,
         "sinta": 4,
         "url": "https://jurnal.ar-raniry.ac.id/index.php/Psikoislam"
@@ -162,7 +162,7 @@
     {
         "title": "PIONIR",
         "image": "assets/journals/pionir.png",
-        "description": "ini adalah islam didaktika",
+        "description": "PIONIR: Jurnal Pendidikan is a forum for lecturers, teachers, researchers and education observers to develop knowledge in the field of educational studies, in order to fulfill the Tri Dharma of Higher Education, particularly in the field of Basic Education and Madrasah Ibtidaiyah.",
         "scopus": false,
         "sinta": 4,
         "url": "https://jurnal.ar-raniry.ac.id/index.php/Pionir"
@@ -170,7 +170,7 @@
     {
         "title": "CIRCUIT",
         "image": "assets/journals/circuit.png",
-        "description": "ini adalah islam didaktika",
+        "description": "Circuit is a scientific journal dedicated to electrical engineering education that is produced by the faculty of teaching and training at Ar-Raniry State Islamic University in Banda Aceh. The Circuit Journal presents empirical and theoretical contributions from students, lecturers, professors, and other scientists in the field of electrical engineering education. ",
         "scopus": false,
         "sinta": 4,
         "url": "https://jurnal.ar-raniry.ac.id/index.php/circuit"
@@ -264,142 +264,135 @@
         "url": "https://jurnal.ar-raniry.ac.id/index.php/PMI"
     },
     {
-        "title": "1",
-        "image": "assets/journals/circuit.png",
-        "description": "ini adalah islam didaktika",
+        "title": "PHI",
+        "image": "assets/journals/Jurnal Phi Jurnal Pendidikan Fisika dan Fisika Terapan.png",
+        "description": "Jurnal Phi: Jurnal Pendidikan Fisika dan Fisika Terapan is a double-blind peer-reviewed journal published by Progam Studi Pendidikan Fisika, Fakultas Tarbiyah dan Keguruan, Universitas Islam Negeri Ar-Raniry, Banda Aceh, Indonesia. Specifically, the topics and scope that are published consist of:  1) Curriculum in physics; 2) Education; 3) Learning strategies in physics education; 4) Media and instructional technology in physics education; 5) Relation of psychology and physics education; 6) Assessment in physics education; 7) Teacher competence in physics education; 8) Instrumentation and computing for physics education technology, and 9) Applied physics includes geophysics and material technology.",
         "scopus": false,
-        "sinta": 4,
-        "url": "https://jurnal.ar-raniry.ac.id/index.php/circuit"
+        "sinta": 5,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/jurnalphi"
     },
     {
-        "title": "2",
-        "image": "assets/journals/circuit.png",
-        "description": "ini adalah islam didaktika",
+        "title": "PEURAWI",
+        "image": "assets/journals/Jurnal Peurawi_ Media Kajian Komunikasi Islam.png",
+        "description": "Jurnal Peurawi is published by Islamic Communication and Broadcasting of Postgraduate School Program in cooperation with Research and Community Service  Center (LP2M) of UIN Ar-Raniry Banda Aceh, Aceh, Indonesia. This journal is published twice a year in April and October. The Jurnal Peurawi concentrates on communication research, practice, policy, and theory, bringing to its readers the latest, broadest, and most important findings in the field of communication studies. The Jurnal Peurawi also features a book review section and reports on symposia in the field of communication research.",
         "scopus": false,
-        "sinta": 4,
-        "url": "https://jurnal.ar-raniry.ac.id/index.php/circuit"
+        "sinta": 5,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/peurawi"
     },
     {
-        "title": "3",
-        "image": "assets/journals/circuit.png",
-        "description": "ini adalah islam didaktika",
+        "title": "LISANUNA",
+        "image": "assets/journals/(LISANUNA)_ Jurnal Ilmu Bahasa Arab dan Pembelajarannya.png",
+        "description": "LISANUNA Jurnal Ilmu Bahasa Arab dan Pembelajarannya is presented as an effort to promote arabic knowledge to the world. Its establishment is aimed to be a scholarly journal with an international reputation. It is intended as a credible place for academicians and researchers across the globe to disseminate their works, studies, papers, and other research formats. LISANUNA is published by Prodi Pendidikan Bahasa Arab, Universitas Islam Negeri Ar-Raniry Banda Aceh Indonesia. LISANUNA is published in open access format which enables readers to freely access and downloads the articles.",
         "scopus": false,
-        "sinta": 4,
-        "url": "https://jurnal.ar-raniry.ac.id/index.php/circuit"
+        "sinta": 5,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/lisanuna"
     },
     {
-        "title": "4",
-        "image": "assets/journals/circuit.png",
-        "description": "ini adalah islam didaktika",
+        "title": "SAHARIA",
+        "image": "assets/journals/Journal of sharia economica.png",
+        "description": "Journal of Sharia Economics is presented as an effort to promote Islamic economics and finance knowledge to the world. Its establishment is aimed to be a scholarly journal with an international reputation. It is intended as a credible place for academicians and researchers across the globe to disseminate their works, studies, papers, and other research formats.",
         "scopus": false,
-        "sinta": 4,
-        "url": "https://jurnal.ar-raniry.ac.id/index.php/circuit"
+        "sinta": 5,
+        "url": "https://journal.ar-raniry.ac.id/index.php/JoSE/"
     },
     {
-        "title": "5",
-        "image": "assets/journals/circuit.png",
-        "description": "ini adalah islam didaktika",
+        "title": "AL IDARAH",
+        "image": "assets/journals/al idarah.png",
+        "description": "Al-Idarah: Jurnal Manajemen dan Administrasi Islam is an open-access based journal that contributes to improving scientific knowledge, especially in Indonesia related to its relevance in the development and application of management and administration sciences. This journal is managed and published periodically by the Research and Publishing Center of Universitas Islam Negeri Ar-Raniry Banda Aceh in collaboration with the Da'wah Management Department of the Da'wah and Communication Faculty of Universitas Islam Negeri Ar-Raniry Banda Aceh. ",
         "scopus": false,
-        "sinta": 4,
+        "sinta": 0,
         "url": "https://jurnal.ar-raniry.ac.id/index.php/circuit"
     },{
-        "title": "6",
-        "image": "assets/journals/circuit.png",
-        "description": "ini adalah islam didaktika",
+        "title": "LIBRIA",
+        "image": "assets/journals/libria.png",
+        "description": "LIBRIA is a national journal published by the Library of Post Graduate Universitas Islam Negeri Ar-Raniry , Banda Aceh, INDONESIA. It specializes in the subject related to the Librarianship, information and documentation. It was first published in 2009. This journal warmly welcomes contributions from scholars of related disciplines.",
+        "scopus": false,
+        "sinta": 0,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/libria"
+    },{
+        "title": "PROSIDING BIOTIK",
+        "image": "assets/journals/prosiding biotik.png",
+        "description": "Prosiding BIOTIK : Bio- Technology /Science Technology and Education is an open access based, that proceeding and contributes to improving knowledge in the fields of  biology, Technology and Education Biotic Proceedings are published by the biology education study program Ar-Raniry State Islamic University.a",
+        "scopus": false,
+        "sinta": 0,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/PBiotik"
+    },{
+        "title": "BUNAYYA",
+        "image": "assets/journals/Bunayya.png",
+        "description": "Bunayya: Jurnal Pendidikan Anak terbit 6 bulan sekali (Januari dan Juli) sudah dimulai sejak juni 2015, diterbitkan oleh program studi Pendidikan Islam Anak Usia Dini, Fakultas Tarbiyah dan Keguruan, UIN Ar-Raniry Banda Aceh. Jurnal ini diharapkan sebagai media bagi dosen, peneliti, praktisi, guru, mahasiswa dan masyarakat luas yang memiliki perhatian terhadap bidang pendidikan dan pembelajaran anak usia dini.",
+        "scopus": false,
+        "sinta": 0,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/bunayya"
+    },{
+        "title": "EKOBIS",
+        "image": "assets/journals/ekobis.png",
+        "description": "EKOBIS SYARIAH publishes research papers to the global community on Islamic economics and finance concepts and practices from an Indonesian perspective and its surrounding region. However, EKOBIS also welcomes perspectives from other regions that can boost the publication's value. Article submitted must be based on research, original and educationally interesting to the audience in the field",
+        "scopus": false,
+        "sinta": 0,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/ekobis"
+    },{
+        "title": "JIHBIZ",
+        "image": "assets/journals/jihbiz.png",
+        "description": "JIHBIZ : Global Journal of Islamic Banking and Finance welcomes students, academicians, and practitioners to publish research articles of interest to Islamic Financial Institutions and Islamic Finance. Those includes but not limited to the following topics : Islamic Banks and non-Banks, Islamic Insurance/Takaful, and Islamic Institutional Management that including Islamic Accounting, Islamic Capital Market",
+        "scopus": false,
+        "sinta": 0,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/jihbiz"
+    },{
+        "title": "TAKAMMUL",
+        "image": "assets/journals/takammul.png",
+        "description": "TAKAMUL is a journal of Gender and Child Studies is published by Pusat Studi Wanita Universitas Islam Negeri Ar-Raniry Banda Aceh. First published in 2012, this journal is published twice a year in June and December. This is a scientific communication media for enthusiasts and observers of gender and children study. The editor receives articles of gender and children study from academics, researchers, practitioners, and postgraduate students",
+        "scopus": false,
+        "sinta": 0,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/takamul"
+    },{
+        "title": "AT TAUJIH",
+        "image": "assets/journals/at-taujih.png",
+        "description": "At-Taujih: Bimbingan dan Konseling Islam (ISSN 2598-585X (Print) | 2614-4980 (online) is one of the scientific journals in the field of Islamic Guidance and Counseling that seeks to contribute to the world of Islamic and Modern scholarship, and as a means of enriching the scientific treasures of open-access Islamic guidance and counseling, publishing research-based scientific papers.",
         "scopus": false,
         "sinta": 4,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/Taujih"
+    },{
+        "title": "INTELEKTUALITA",
+        "image": "assets/journals/intelektualita.png",
+        "description": "Jurnal Intelektualita: Journal of Education Sciences and Teacher Training is a double-blind peer-reviewed and open-access journal on Education. The scope of the Intellectual Journal includes education management, curriculum, educational assessment, educational policy, educational technology, learning and teaching, educational human resources, higher education, entrepreneurship education, Islamic Education, Social Education, Natural Science Education, Mathematics Education, Environmental Education, Language Education, Management Education, Quality Education, Teacher Education, Early Childhood Education, Special Education, Guidance and Counseling Education, and other educational fields.",
+        "scopus": false,
+        "sinta": 0,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/intel"
+    },{
+        "title": "STIMULUS",
+        "image": "assets/journals/stimulus.png",
+        "description": "Stimulus:  International Journal of Communication and Social Sciences is annually published by Communication and Boardcasting Department of UIN Ar-raniry Banda Aceh, in cooperation with Dakwah and Communication Faculty of UIN Sunan Gunung Djati Bandung.This Academic Journal publishes original researches in multi concepts, theories, perspectives, paradigms and methodologies on communication studies related to social and cultural context in Indonesia.",
+        "scopus": false,
+        "sinta": 0,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/stimulus"
+    },{
+        "title": "SIGNAL",
+        "image": "assets/journals/signal.png",
+        "description": "Signal adalah jurnal berkala ilmiah yang diterbitkan dua kali setahun (Juni - Juli) yang mempublikasikan hasil penelitian orisinal tentang komunikasi dan penyiaran Islam. Jurnal ini bertujuan untuk mengembangkan konsep, teori, perspektif, paradigma, dan metodologi dalam kajian ilmu komunikasi dan penyiaran Islam",
+        "scopus": false,
+        "sinta": 0,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/signal"
+    },{
+        "title": "AL BATTAM",
+        "image": "assets/journals/AL BATTAM.png",
+        "description": "Jurnal Al Battani, merupakan Jurnal Pendidikan dan Teknologi Informasi dengan pendekatan multiperspektif. Jurnal ini menerima artikel yang berhubungan dengan pendidikan dan teknologi informasi. Editor dan mitra bestari Jurnal Al Battani direkrut sesuai dengan spesifikasi dan latar belakang pendidikan yang relevan dengan bidang keilmuan. Artikel untuk Jurnal Al Battani dapat ditulis dalam bahasa Indonesia, Arab, dan Inggris.",
+        "scopus": false,
+        "sinta": 0,
         "url": "https://jurnal.ar-raniry.ac.id/index.php/circuit"
     },{
-        "title": "7",
-        "image": "assets/journals/circuit.png",
-        "description": "ini adalah islam didaktika",
+        "title": "KOMPETENSI",
+        "image": "assets/journals/kompetensi.png",
+        "description": "Jurnal KOMPETENSI (Jurnal Pendidikan dan Pembelajaran) merupakan jurnal ilmiah yang dikelola oleh Instructional Development Center Fakultas Tarbiyah dan Keguruan UIN Ar-Raniry Banda Aceh yang berbasis open-access yang memuat hasil penelitian, kajian pustaka dan berita-berita terbaru tentang Ilmu Pendidikan secara khusus agar para tenaga pendidikan mampu memahami teknik-teknik terbaru dalam menjalankan tugasnya.",
         "scopus": false,
-        "sinta": 4,
-        "url": "https://jurnal.ar-raniry.ac.id/index.php/circuit"
+        "sinta": 0,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/kompetensit"
     },{
-        "title": "8",
-        "image": "assets/journals/circuit.png",
-        "description": "ini adalah islam didaktika",
+        "title": "PEMIKIRAN",
+        "image": "assets/journals/pemikiran islam.png",
+        "description": "Jurnal Pemikiran Islam (JPI) published by Program Studi Aqidah dan Filsafat Islam, Fakultas Ushuluddin dan Filsafat UIN Ar-Raniry Banda Aceh. This journal published twice a year, that is July-December and January-June. Jurnal Pemikiran Islam focuses on studies of Islamic thought, theology, philosophy, and Sufism.",
         "scopus": false,
-        "sinta": 4,
-        "url": "https://jurnal.ar-raniry.ac.id/index.php/circuit"
-    },{
-        "title": "9",
-        "image": "assets/journals/circuit.png",
-        "description": "ini adalah islam didaktika",
-        "scopus": false,
-        "sinta": 4,
-        "url": "https://jurnal.ar-raniry.ac.id/index.php/circuit"
-    },{
-        "title": "10",
-        "image": "assets/journals/circuit.png",
-        "description": "ini adalah islam didaktika",
-        "scopus": false,
-        "sinta": 4,
-        "url": "https://jurnal.ar-raniry.ac.id/index.php/circuit"
-    },{
-        "title": "11",
-        "image": "assets/journals/circuit.png",
-        "description": "ini adalah islam didaktika",
-        "scopus": false,
-        "sinta": 4,
-        "url": "https://jurnal.ar-raniry.ac.id/index.php/circuit"
-    },{
-        "title": "12",
-        "image": "assets/journals/circuit.png",
-        "description": "ini adalah islam didaktika",
-        "scopus": false,
-        "sinta": 4,
-        "url": "https://jurnal.ar-raniry.ac.id/index.php/circuit"
-    },{
-        "title": "13",
-        "image": "assets/journals/circuit.png",
-        "description": "ini adalah islam didaktika",
-        "scopus": false,
-        "sinta": 4,
-        "url": "https://jurnal.ar-raniry.ac.id/index.php/circuit"
-    },{
-        "title": "14",
-        "image": "assets/journals/circuit.png",
-        "description": "ini adalah islam didaktika",
-        "scopus": false,
-        "sinta": 4,
-        "url": "https://jurnal.ar-raniry.ac.id/index.php/circuit"
-    },{
-        "title": "15",
-        "image": "assets/journals/circuit.png",
-        "description": "ini adalah islam didaktika",
-        "scopus": false,
-        "sinta": 4,
-        "url": "https://jurnal.ar-raniry.ac.id/index.php/circuit"
-    },{
-        "title": "16",
-        "image": "assets/journals/circuit.png",
-        "description": "ini adalah islam didaktika",
-        "scopus": false,
-        "sinta": 4,
-        "url": "https://jurnal.ar-raniry.ac.id/index.php/circuit"
-    },{
-        "title": "17",
-        "image": "assets/journals/circuit.png",
-        "description": "ini adalah islam didaktika",
-        "scopus": false,
-        "sinta": 4,
-        "url": "https://jurnal.ar-raniry.ac.id/index.php/circuit"
-    },{
-        "title": "18",
-        "image": "assets/journals/circuit.png",
-        "description": "ini adalah islam didaktika",
-        "scopus": false,
-        "sinta": 4,
-        "url": "https://jurnal.ar-raniry.ac.id/index.php/circuit"
-    },
-    {
-        "title": "19",
-        "image": "assets/journals/circuit.png",
-        "description": "ini adalah islam didaktika",
-        "scopus": false,
-        "sinta": 4,
-        "url": "https://jurnal.ar-raniry.ac.id/index.php/circuit"
+        "sinta": 0,
+        "url": "https://jurnal.ar-raniry.ac.id/index.php/jpi"
     }
+   
 ]
