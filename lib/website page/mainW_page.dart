@@ -85,7 +85,7 @@ class _mainW_pageState extends State<mainW_page> {
             alignment: Alignment.topCenter,
             child: //title (bagian atas)
                 Padding(
-              padding: const EdgeInsets.only(left: 55.0, right: 70, top: 50),
+              padding: const EdgeInsets.only(left: 55.0, right: 120, top: 50),
               child: ListView(
                 children: [
                   Row(
@@ -308,6 +308,7 @@ class _mainW_pageState extends State<mainW_page> {
                                     hint: Center(
                                       child: Row(
                                         children: [
+                                          SizedBox(width: 13,),
                                           Image.asset(
                                             "assets/browser.png",
                                             width: 40,
