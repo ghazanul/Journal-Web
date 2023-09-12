@@ -105,14 +105,22 @@ class journalItemMobile extends StatelessWidget {
                                           fontWeight: FontWeight.bold),
                                     ),
                                     SizedBox(height: 15,),
-                                    Text(
-                                      description,
-                                      style: GoogleFonts.abel(
-                                          color: Colors.white,
-                                          fontSize:
-                                              MediaQuery.of(context).size.width *
-                                                  0.03,
-                                          fontWeight: FontWeight.bold),
+                                    Container(
+                                      width: MediaQuery.of(context).size.width * 1,
+                                      height: MediaQuery.of(context).size.height * 0.17,
+                                      child: ListView(
+                                        children: [
+                                          Text(
+                                            description,
+                                            style: GoogleFonts.abel(
+                                                color: Colors.white,
+                                                fontSize:
+                                                    MediaQuery.of(context).size.width *
+                                                        0.03,
+                                                fontWeight: FontWeight.bold),
+                                          ),
+                                        ],
+                                      ),
                                     ),
                                   ],
                                 ),

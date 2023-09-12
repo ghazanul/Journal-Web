@@ -87,24 +87,32 @@ class journalItemWeb extends StatelessWidget {
                                                         .height *
                                                     0.02,
                                               ),
-                                              Row(
-                                                children: [
-                                                  Flexible(
-                                                    child: Text(
-                                                      description,
-                                                      style: GoogleFonts.abel(
-                                                          color: Colors.white,
-                                                          fontSize:
-                                                              MediaQuery.of(context)
-                                                                      .size
-                                                                      .width *
-                                                                  0.01,
-                                                          fontWeight:
-                                                              FontWeight.bold),
-                                                      textAlign: TextAlign.justify,
+                                              Container(
+                                                height: MediaQuery.of(context).size.height * 0.3,
+                                                width: MediaQuery.of(context).size.width * 1,
+                                                child: ListView(
+                                                  children: [
+                                                    Row(
+                                                      children: [
+                                                        Flexible(
+                                                          child: Text(
+                                                            description,
+                                                            style: GoogleFonts.abel(
+                                                                color: Colors.white,
+                                                                fontSize:
+                                                                    MediaQuery.of(context)
+                                                                            .size
+                                                                            .width *
+                                                                        0.01,
+                                                                fontWeight:
+                                                                    FontWeight.bold),
+                                                            textAlign: TextAlign.justify,
+                                                          ),
+                                                        ),
+                                                      ],
                                                     ),
-                                                  ),
-                                                ],
+                                                  ],
+                                                ),
                                               ),
 
                                             ],
